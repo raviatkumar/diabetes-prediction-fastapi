@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn
+Pydantic
+numpy
+pandas
+json
+pickle
+scikit-learn
+Requests
