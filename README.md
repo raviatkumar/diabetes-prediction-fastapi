@@ -1,1 +1,1 @@
-# diabetes-prediction-fastapii
+# diabetes-prediction-fastapi
